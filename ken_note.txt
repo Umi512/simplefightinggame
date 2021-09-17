@@ -1,0 +1,4 @@
+変更点
+・Sceneが変わった直後に戦闘がすぐ開始すると、プレイヤーにとってゲームしにくいので、UIFightingController.csにstart前カウントの処理を追加（Human.csに、待たせる処理を追加）
+・Select.sceneを作成
+・Help.csでキャラクター操作の説明 FightingCanvasにアタッチ

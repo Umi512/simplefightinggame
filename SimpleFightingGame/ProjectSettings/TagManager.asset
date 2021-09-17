@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeadLine
+  - Bullet
+  - warpPoint1
+  - warpPoint2
+  - warpPoint3
+  - warpPoint4
+  - Ground
+  - Player1
+  - TransformGround
+  - attackerPlayer
+  - bullet
+  - hand
+  - worpPoint1
+  - worpPoint2
+  - JumpingBlock
+  - LoopLeft
+  - LoopRight
+  - hand1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Bullet
+  - Ground
+  - WarpPoint
+  - Loop
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
